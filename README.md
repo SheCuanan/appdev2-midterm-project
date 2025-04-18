@@ -1,16 +1,16 @@
 # appdev2-midterm-project
 
-# Midterm Project: Building a CRUD HTTP Server Using the File System Module
+ Building a CRUD HTTP Server Using the File System Module
 
 
-# Student Information:
+## Student Information:
 - Sherelyn Cuanan from BSIS 3
 - AppDev2
 - Due Date: April 19
 
 ---
 
-# Project Description
+## Project Description
 
 This project is a simple **RESTful API** built using **Node.js** and **fs modules**. It mimics the functionality of a TODO list API similar to JSONPlaceholder.
 
@@ -18,7 +18,7 @@ Instead of a database, it uses a **JSON file (`todos.json`)** to store the data,
 
 ---
 
-# Here are the following endpoits:
+## Here are the following endpoits:
 
 - `GET /todos` – fetch all todos
 - `GET /todos/:id` – Get a specific todo by ID
@@ -44,8 +44,8 @@ node server.js
 ## the server will start on 
 
 http://localhost:3000
-
-----
+```
+-----
 
 ## Here is my short video demonstration of my API:
 
